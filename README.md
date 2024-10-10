@@ -4,7 +4,7 @@ Aplikasi Catatan Service Motor adalah sebuah aplikasi sederhana yang digunakan u
 
 ![](ss.png)
 
-# Fitur Utama
+# Fitur 
 
 1. Input Data Service: Pengguna dapat menambahkan catatan service baru dengan mengisi informasi tentang nama motor, tanggal service, dan deskripsi riwayat service. Bisa juga menambahkan total biaya service.
 1. Edit Data Service: Pengguna dapat memperbarui informasi catatan service yang sudah ada, misalnya jika ada kesalahan atau perubahan dalam rincian service.
